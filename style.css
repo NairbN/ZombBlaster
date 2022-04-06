@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#canvas1{
+    /* background-color: beige; */
+    position: absolute;
+    background-image: url('./assets/background.png');
+}
+#button1{
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    bottom: 5px;
+    left: 5px;
+    margin: 0;
+}
